@@ -1,0 +1,61 @@
+{
+  "name": "@jill64/node-async",
+  "description": "⚖️ Promisified node utilities",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "dist/index.js",
+  "files": [
+    "dist",
+    "!**/*.test.*"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./fs": {
+      "types": "./dist/fs.d.ts",
+      "default": "./dist/fs.js"
+    }
+  },
+  "scripts": {
+    "build": "tsc && npx publint",
+    "prepack": "npm run build",
+    "test": "vitest",
+    "lint": "npx eslint . && npx depcheck",
+    "format": "npx prettier -w ."
+  },
+  "prettier": "@jill64/prettier-config",
+  "devDependencies": {
+    "@jill64/eslint-config-ts": "1.1.0",
+    "@jill64/prettier-config": "1.0.0",
+    "typescript": "5.3.3",
+    "vitest": "1.2.2"
+  },
+  "dependencies": {
+    "@types/node": "20.11.17"
+  },
+  "homepage": "https://github.com/jill64/node-async#readme",
+  "license": "MIT",
+  "bugs": "https://github.com/jill64/node-async/issues",
+  "author": {
+    "name": "jill64",
+    "email": "intents.turrets0h@icloud.com",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jill64/node-async.git",
+    "image": "https://opengraph.githubassets.com/1cd306feb8b0fb33687b752576ad73eceff26459f86c7fee092d43c0f11e77a8/jill64/node-async"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "node",
+    "promisify",
+    "utility",
+    "wip"
+  ]
+}
