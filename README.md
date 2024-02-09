@@ -8,6 +8,8 @@
 
 <!----- END GHOST DOCS BADGES ----->
 
+⚖️ Promisified node utilities
+
 <!----- END GHOST DOCS HEADER ----->
 
 <!----- BEGIN GHOST DOCS FOOTER ----->
