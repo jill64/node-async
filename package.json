@@ -1,6 +1,6 @@
 {
   "name": "@jill64/node-async",
-  "description": "",
+  "description": "⚖️ Promisified node utilities",
   "version": "0.0.1",
   "type": "module",
   "main": "dist/index.js",
@@ -32,5 +32,28 @@
     "@types/node": "^20.11.17",
     "typescript": "5.3.3",
     "vitest": "1.2.2"
-  }
+  },
+  "homepage": "https://github.com/jill64/node-async#readme",
+  "license": "MIT",
+  "bugs": "https://github.com/jill64/node-async/issues",
+  "author": {
+    "name": "jill64",
+    "email": "intents.turrets0h@icloud.com",
+    "url": "https://github.com/jill64",
+    "image": "https://avatars.githubusercontent.com/u/143883742?v=4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jill64/node-async.git",
+    "image": "https://opengraph.githubassets.com/1cd306feb8b0fb33687b752576ad73eceff26459f86c7fee092d43c0f11e77a8/jill64/node-async"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "node",
+    "promisify",
+    "utility",
+    "wip"
+  ]
 }
