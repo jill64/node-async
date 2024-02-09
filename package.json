@@ -1,5 +1,7 @@
 {
   "name": "@jill64/node-async",
+  "description": "",
+  "version": "0.0.1",
   "type": "module",
   "main": "dist/index.js",
   "files": [
