@@ -47,7 +47,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/node-async.git",
-    "image": "https://opengraph.githubassets.com/ad8cc3d9870d33a3b12f4a6d938ad76ff338dae70454c7a3229823436398fb87/jill64/node-async"
+    "image": "https://opengraph.githubassets.com/8011d933504d2debb15461e70d0c46b924a737a26e1ace6062bbb0f2f8e84797/jill64/node-async"
   },
   "publishConfig": {
     "access": "public"
@@ -55,7 +55,6 @@
   "keywords": [
     "node",
     "promisify",
-    "utility",
-    "wip"
+    "utility"
   ]
 }
