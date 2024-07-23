@@ -33,7 +33,7 @@
     "vitest": "2.0.4"
   },
   "dependencies": {
-    "@types/node": "20.14.11"
+    "@types/node": "20.14.12"
   },
   "homepage": "https://github.com/jill64/node-async#readme",
   "license": "MIT",
