@@ -1,7 +1,7 @@
 {
   "name": "@jill64/node-async",
   "description": "⚖️ Promisified node utilities",
-  "version": "0.0.35",
+  "version": "0.0.36",
   "type": "module",
   "main": "dist/index.js",
   "files": [
@@ -33,7 +33,7 @@
     "vitest": "2.0.5"
   },
   "dependencies": {
-    "@types/node": "20.14.13"
+    "@types/node": "20.14.14"
   },
   "homepage": "https://github.com/jill64/node-async#readme",
   "license": "MIT",
@@ -47,7 +47,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/node-async.git",
-    "image": "https://opengraph.githubassets.com/5fbecf0d4bc85904bfe76a8439147df6e4d32d43677835fa4c86e27b386b87f8/jill64/node-async"
+    "image": "https://opengraph.githubassets.com/a5e05e2ad83acd76b0f01491993e89d7de470b914c042eb0fbd18d84c3400b93/jill64/node-async"
   },
   "publishConfig": {
     "access": "public"
