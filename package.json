@@ -27,7 +27,7 @@
   },
   "prettier": "@jill64/prettier-config",
   "devDependencies": {
-    "@jill64/eslint-config-ts": "1.1.34",
+    "@jill64/eslint-config-ts": "1.1.35",
     "@jill64/prettier-config": "1.0.0",
     "typescript": "5.5.4",
     "vitest": "2.0.5"
@@ -47,7 +47,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/jill64/node-async.git",
-    "image": "https://opengraph.githubassets.com/cf1120deb997756f9f9f3dfeb8fcf56804aa9196b091d24163617238ab090b7b/jill64/node-async"
+    "image": "https://opengraph.githubassets.com/a32dee174fd6de32d2e909f6ef23a40eba8feb5c4848eae06e5050a2c0bebe1c/jill64/node-async"
   },
   "publishConfig": {
     "access": "public"
