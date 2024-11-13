@@ -47,7 +47,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jill64/node-async.git",
-    "image": "https://opengraph.githubassets.com/cbd5bd3acd25d81e43593cc6ef4d0317e606b392869caecb1206021c7b19246a/jill64/node-async"
+    "image": "https://opengraph.githubassets.com/ceb92154002c0e02d2931c262e2faf46aacf309b740c8e901ee40659732d194a/jill64/node-async"
   },
   "publishConfig": {
     "access": "public"
